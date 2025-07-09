@@ -16,7 +16,7 @@ WM File Manager is an interactive, easy to use file manager designed for Unix-li
 
 You can build the application yourself with the instructions detailed below or rather just download the executable in the releases section. But note that, the release version may not be always up to date. Plus building manually gives fun.
 
-###Procedure to build:
+**Procedure to build:**
 
 1. Make sure you have Git installed, if not install it using the appropriate package manager for your distribution. (apt for Debian / Ubuntu, pacman for Arch etc). You also need to have a C compiler and ncurses installed and setup. If you don't, follow the appropriate tutorials.
 
