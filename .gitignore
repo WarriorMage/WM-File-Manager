@@ -1,2 +1,3 @@
 *.o
 wm_file_manager
+.vscode
